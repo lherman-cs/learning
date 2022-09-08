@@ -14,5 +14,5 @@ Using RF (Wifi, Bluetooth) to sense the environment without additional sensors.
 
 ### Embedded Software
 
-* [Device Driver Creation](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/videos)
-* [IO and FSM](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
+* [Fastbit: Device Driver Creation](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/videos)
+* [Austin University: IO and FSM](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i)
