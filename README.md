@@ -15,7 +15,7 @@ Using RF (Wifi, Bluetooth) to sense the environment without additional sensors.
 Using multiple distinct WANs to achieve more reliable and faster internet.
 
 * [Multipath TCP Overview Presentation](http://multipath-tcp.org/data/MultipathTCP-netsys.pdf)
-* [Out-of-order Transmission for In-order Arrival Scheduling for Multipath TCP](https://www.eecis.udel.edu/~amer/PEL/poc/pdf/PAMS2014-Yang.pdf)
+* [Low-Latency Scheduling in MPTCP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8584135)
 * [MPQUIC design](https://multipath-quic.org/conext17-deconinck.pdf)
 * [MPQUIC deployment](https://www.researchgate.net/publication/327122884_Multipath_QUIC_A_Deployable_Multipath_Transport_Protocol)
 
