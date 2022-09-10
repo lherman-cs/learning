@@ -5,7 +5,7 @@ A curated list of interesting resources for learning new things!
 ## RF Fundamentals
 
 * Fourier Transform Introduction [[video](https://www.youtube.com/watch?v=spUNpyF58BY)]
-* Fundamentals of RF and Wireless communication [[video](https://www.youtube.com/watch?v=pSDTyUh9cLo)
+* Fundamentals of RF and Wireless communication [[video](https://www.youtube.com/watch?v=pSDTyUh9cLo)]
 
 ## Wireless Sensing
 
