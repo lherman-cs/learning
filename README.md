@@ -2,25 +2,21 @@
 
 A curated list of interesting resources for learning new things!
 
-## Papers
-
-### Wireless Sensing
+## Wireless Sensing
 
 Using RF (Wifi, Bluetooth) to sense the environment without additional sensors.
 
-* [Using Wifi CSI to categorize vehicles](https://ieeexplore.ieee.org/document/8761305)
+* Using Wifi CSI to categorize vehicles [[paper](https://ieeexplore.ieee.org/document/8761305)]
 
-### Multipath WAN
+## Multipath WAN
 
 Using multiple distinct WANs to achieve more reliable and faster internet.
 
-* [Multipath TCP Overview Presentation](http://multipath-tcp.org/data/MultipathTCP-netsys.pdf)
-* [Low-Latency Scheduling in MPTCP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8584135)
-* [MPQUIC design](https://multipath-quic.org/conext17-deconinck.pdf)
-* [MPQUIC deployment](https://www.researchgate.net/publication/327122884_Multipath_QUIC_A_Deployable_Multipath_Transport_Protocol)
+* Multipath TCP Overview Presentation [[paper](http://multipath-tcp.org/data/MultipathTCP-netsys.pdf)]
+* Low-Latency Scheduling in MPTCP [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8584135)]
+* MPQUIC design [[paper](https://multipath-quic.org/conext17-deconinck.pdf)]
+* MPQUIC deployment [[paper](https://www.researchgate.net/publication/327122884_Multipath_QUIC_A_Deployable_Multipath_Transport_Protocol)]
 
-## Courses
+## Embedded Software
 
-### Embedded Software
-
-* [Fastbit: Device Driver Creation](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/videos)
+* Fastbit: Device Driver Creation [[course](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/videos)]
