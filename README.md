@@ -6,6 +6,8 @@ A curated list of interesting resources for learning new things!
 
 * Fourier Transform Introduction [[video](https://www.youtube.com/watch?v=spUNpyF58BY)]
 * Fundamentals of RF and Wireless communication [[video](https://www.youtube.com/watch?v=pSDTyUh9cLo)]
+* RF Basics for non Engineers [[pdf](https://www.ti.com/lit/ml/slap127/slap127.pdf)]
+* ESP32 WiFi Range Testing - 10km using Directional Antenna [[video](https://www.youtube.com/watch?v=yCLb2eItDyE)]
 
 ## Wireless Sensing
 
