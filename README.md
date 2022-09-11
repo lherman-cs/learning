@@ -9,6 +9,10 @@ A curated list of interesting resources for learning new things!
 * RF Basics for non Engineers [[pdf](https://www.ti.com/lit/ml/slap127/slap127.pdf)]
 * ESP32 WiFi Range Testing - 10km using Directional Antenna [[video](https://www.youtube.com/watch?v=yCLb2eItDyE)]
 
+## Signal Booster
+
+* MIMO vs Boosters [[video](https://www.youtube.com/watch?v=14tWiAsqfJk)]
+
 ## Wireless Sensing
 
 Using RF (Wifi, Bluetooth) to sense the environment without additional sensors.
