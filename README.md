@@ -28,3 +28,5 @@ Using multiple distinct WANs to achieve more reliable and faster internet.
 ## Embedded Software
 
 * Fastbit: Device Driver Creation [[course](https://www.youtube.com/c/FastbitEmbeddedBrainAcademy/videos)]
+* Measuring Performance
+for Real-Time Systems [[pdf](https://www.nxp.com/docs/en/white-paper/CWPERFORMWP.pdf)]
