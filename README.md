@@ -2,6 +2,12 @@
 
 A curated list of interesting resources for learning new things!
 
+Each material is categorized to the following:
+* pdf
+* video
+* web
+* course
+
 ## RF Fundamentals
 
 * Fourier Transform Introduction [[video](https://www.youtube.com/watch?v=spUNpyF58BY)]
@@ -9,6 +15,10 @@ A curated list of interesting resources for learning new things!
 * RF Basics for non Engineers [[pdf](https://www.ti.com/lit/ml/slap127/slap127.pdf)]
 * ESP32 WiFi Range Testing - 10km using Directional Antenna [[video](https://www.youtube.com/watch?v=yCLb2eItDyE)]
 * ESP32 diy AM Radio Transmitter without extra component [[video](https://www.youtube.com/watch?v=lRXHd3HNzEo)]
+
+## Linux Networking
+
+* Queueing in the Linux Network Stack [[web](https://www.linuxjournal.com/content/queueing-linux-network-stack)]
 
 ## Wireless Sensing
 
