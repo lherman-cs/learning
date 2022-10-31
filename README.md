@@ -15,6 +15,7 @@ Each material is categorized to the following:
 * RF Basics for non Engineers [[pdf](https://www.ti.com/lit/ml/slap127/slap127.pdf)]
 * ESP32 WiFi Range Testing - 10km using Directional Antenna [[video](https://www.youtube.com/watch?v=yCLb2eItDyE)]
 * ESP32 diy AM Radio Transmitter without extra component [[video](https://www.youtube.com/watch?v=lRXHd3HNzEo)]
+* RF Beamforming [[video](https://www.youtube.com/watch?v=A1n5Hhwtz78)]
 
 ## Linux Networking
 
